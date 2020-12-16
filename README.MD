@@ -4,3 +4,4 @@ bla bla bla
 sdfdf
 
 After commit test
+After new branch test
